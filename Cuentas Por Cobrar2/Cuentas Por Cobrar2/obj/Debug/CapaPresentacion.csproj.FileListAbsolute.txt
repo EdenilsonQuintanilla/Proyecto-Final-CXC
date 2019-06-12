@@ -1,0 +1,13 @@
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\Cuentas Por Cobrar2.exe.config
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\Cuentas Por Cobrar2.exe
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\Cuentas Por Cobrar2.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\CapaMant.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\BdConexion.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\CapaMant.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\bin\Debug\BdConexion.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\Cuentas_Por_Cobrar2.Form1.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\Cuentas_Por_Cobrar2.Properties.Resources.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\Cuentas Por Cobrar2.exe
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\Cuentas Por Cobrar2\obj\Debug\Cuentas Por Cobrar2.pdb

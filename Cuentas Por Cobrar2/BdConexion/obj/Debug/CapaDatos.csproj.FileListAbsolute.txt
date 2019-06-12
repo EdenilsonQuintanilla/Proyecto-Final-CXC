@@ -1,0 +1,5 @@
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\BdConexion\bin\Debug\BdConexion.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\BdConexion\bin\Debug\BdConexion.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\BdConexion\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\BdConexion\obj\Debug\BdConexion.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\BdConexion\obj\Debug\BdConexion.pdb

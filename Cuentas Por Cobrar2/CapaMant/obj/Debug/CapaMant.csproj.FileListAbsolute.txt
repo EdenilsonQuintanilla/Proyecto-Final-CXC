@@ -1,0 +1,7 @@
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\bin\Debug\CapaMant.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\bin\Debug\CapaMant.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\bin\Debug\BdConexion.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\bin\Debug\BdConexion.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\obj\Debug\CapaMant.csprojResolveAssemblyReference.cache
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\obj\Debug\CapaMant.dll
+D:\Desktop\Utec\Ciclo V\Progra 1\Cuentas Por Cobrar2\CapaMant\obj\Debug\CapaMant.pdb
